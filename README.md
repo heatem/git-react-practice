@@ -25,3 +25,6 @@ Open the project in your text editor/IDE (ex. VS Code). I have put some git comm
 - **Task 2:** Create a header component for the title of the page and replace the h3 in the index.js file with the component
 - **Task 3:** Create component(s) for each section of the cheat sheet in the way you see fit, then replace the html with the components in index.js
 - **Bonus:** Style any/all components
+
+## See the site live
+https://eager-jones-9b1bbe.netlify.com/(https://eager-jones-9b1bbe.netlify.com/)
