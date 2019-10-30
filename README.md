@@ -26,5 +26,8 @@ Open the project in your text editor/IDE (ex. VS Code). I have put some git comm
 - **Task 3:** Create component(s) for each section of the cheat sheet in the way you see fit, then replace the html with the components in index.js
 - **Bonus:** Style any/all components
 
+## Give yourself credit
+If you contribute, add your name (once) to the Contributors list. Go to the Contributors.js file (src/components/Contributors.js) and add a new list item with your name.
+
 ## See the site live
-https://eager-jones-9b1bbe.netlify.com/(https://eager-jones-9b1bbe.netlify.com/)
+https://eager-jones-9b1bbe.netlify.com/(https://eager-jones-9b1bbe.netlify.com/
