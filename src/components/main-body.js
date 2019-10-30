@@ -1,7 +1,9 @@
 import React from 'react';
 
-const practicemainbody = () => {
+const Practicemainbody = () => {
     return (
         <div></div>
     )
 }
+
+export {Practicemainbody};
