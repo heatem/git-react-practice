@@ -12,7 +12,7 @@ This is an overly complicated git cheat sheet project, created to provide react 
 6. Check for NPM: ```npm -v``` (to confirm npm is installed. If not, check this out treehouse.github.io/installation-guides/mac/node-mac.html)
 7. Install Gatsby: ```npm install -g gatsby-cli``` (might need to do ```sudo npm install -g gatsby-cli```)
 8. Run ```npm install```
-9. Run ```npm start``` to start your local server
+9. Run ```npm develop``` to start your local server
 10. In your browser (ex. Chrome, Firefox), go to localhost:8000 to see your site
 
 ## Continuing work
