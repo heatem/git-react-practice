@@ -4,6 +4,8 @@ import React from "react"
 
 import { Practiceheader } from "../components/Header";
 
+import { Contributors } from "../components/Contributors"
+
 const IndexPage = () => (
   <div>
 <Practiceheader />
@@ -26,6 +28,9 @@ const IndexPage = () => (
     <h4>When you want to get your repo from GitHub</h4>
     <p>git fetch // gets the change data from the remote branch but doesn’t change your files</p>
     <p>git pull // merges remote changes into your local files</p>
+    <footer>
+      <Contributors />
+    </footer>
   </div>
 )
 
