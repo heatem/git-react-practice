@@ -1,5 +1,7 @@
 import React from "react"
 
+import { Contributors } from "../components/Contributors"
+
 const IndexPage = () => (
   <div>
     <h3>Git Cheatsheet</h3>
@@ -21,6 +23,9 @@ const IndexPage = () => (
     <h4>When you want to get your repo from GitHub</h4>
     <p>git fetch // gets the change data from the remote branch but doesn’t change your files</p>
     <p>git pull // merges remote changes into your local files</p>
+    <footer>
+      <Contributors />
+    </footer>
   </div>
 )
 
