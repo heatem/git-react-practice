@@ -1,9 +1,9 @@
 import React from 'react';
 
-const practiceheader = () => {
+const Practiceheader = () => {
     return(
         <h1>Basic Git Commands - Quick Guide</h1>
     )
 }
 
-export {practiceheader};
+export { Practiceheader };

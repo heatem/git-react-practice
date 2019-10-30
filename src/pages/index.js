@@ -1,8 +1,13 @@
 import React from "react"
+//import ReactDOM from 'react-dom';
+
+
+import { Practiceheader } from "../components/Header";
 
 const IndexPage = () => (
   <div>
-    <h3>Git Cheatsheet</h3>
+<Practiceheader />
+
     <p>git init // creates a repo locally</p>
     <p>git add . // adds all of your changes to the git repo</p>
     <p>git add FileName.txt // adds the file specified to your git repo instead of using “git add .” to add all of them.</p>
